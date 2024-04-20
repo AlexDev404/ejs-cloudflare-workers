@@ -24,7 +24,8 @@
   "dependencies": {
     "acorn": "^8.11.3",
     "espression": "^1.8.5",
-    "jake": "^10.8.5"
+    "jake": "^10.8.5",
+    "path": "github:AlexDev404/path-nodep"
   },
   "devDependencies": {
     "browserify": "^16.5.1",
