@@ -22,6 +22,8 @@
   "bugs": "https://github.com/mde/ejs/issues",
   "homepage": "https://github.com/mde/ejs",
   "dependencies": {
+    "acorn": "^8.11.3",
+    "espression": "^1.8.5",
     "jake": "^10.8.5"
   },
   "devDependencies": {
